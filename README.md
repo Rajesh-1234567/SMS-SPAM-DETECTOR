@@ -1,11 +1,11 @@
 # SMS-SPAM-DETECTOR
 Spam SMS and Message Detector
 
-Overview
+ # Overview:
 
 This project aims to detect spam messages and SMS using machine learning techniques. It provides a classifier trained on a dataset of labeled messages to classify incoming messages as either spam or not spam (ham).
 
-Features
+# Features :
 
 Pre-trained classifier for spam detection.
 Ability to classify incoming messages in real-time.
