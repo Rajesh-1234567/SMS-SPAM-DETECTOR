@@ -12,3 +12,13 @@ Ability to classify incoming messages in real-time.
 Customizable threshold for classification confidence.
 Simple API for integration into other applications.
 Easy-to-use command-line interface for testing.
+
+# workflow
+Data PreProcessing
+Lowercase conversion (all data in lower case letter)
+
+Tokenize (splitting datas into words)
+
+Removing Special Characters
+
+Removing stop words and punctuation Stemming
